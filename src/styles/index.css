@@ -1,0 +1,7 @@
+/* ...existing code... */
+
+.bg-stars-pattern {
+  background: url('/path/to/stars-pattern.png') repeat;
+  background-size: cover;
+  z-index: -1;
+}
